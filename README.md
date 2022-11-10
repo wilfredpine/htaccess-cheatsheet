@@ -1,5 +1,7 @@
 # htaccess-cheatsheet
 
+## uploaded public file security
+- some usage is in the public folder that the uploaded file is stored.
 ```
 RewriteEngine on
 #if the file does not have one of theses extensions
